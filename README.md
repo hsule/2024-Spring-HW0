@@ -3,7 +3,7 @@
 All the detailed specified in Homework 0 documentation.
 
 ## Wallet Address
-Please provide your MetaMask wallet address:
+0xD8c429952160d164b9dFceC244Eb0eB755C9faC7
 
 ## Local Testing
 ![alt text](image.png)
