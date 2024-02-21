@@ -1,5 +1,5 @@
 # Compiler files
-cache/
+cacihe/
 out/
 
 # Ignores development broadcast logs
@@ -12,3 +12,4 @@ docs/
 
 # Dotenv file
 .env
+
